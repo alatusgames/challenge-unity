@@ -48,9 +48,10 @@ Avaliaremos sua submissão com base nos seguintes critérios:
 ## Diferencial
 Algumas funcionalidades são marcadas como opcionais neste desafio. A implementação dessas funcionalidades é um diferencial, mas não um requisito obrigatório. Você não deve se sentir pressionado a implementar todas elas. Recomendamos que primeiro implemente todas as funcionalidades principais antes de tentar as opcionais. Preferimos uma implementação sólida e bem feita das mecânicas básicas do que várias funcionalidades incompletas.
 
-- O controle deve funcionar com teclado e mouse (gamepad opcional)
+- O controle deve funcionar com gamepad (opcional)
 - Controle de força do arremesso (opcional)
 - Controle da altura do pulo baseado no tempo de pressão do botão (opcional)
+- Sinta-se a vontade para implementar quaisquer funcionalidades que demonstre suas habilidades! (opcional)
 
 ## Entrega
 
