@@ -1,7 +1,5 @@
 # Desafio de Programação Unity: Mecânicas de Gameplay
 
-## Introdução
-
 Bem-vindo ao nosso desafio de programação para desenvolvedores de jogos! Este teste foi projetado para avaliar suas habilidades de implementação de mecânicas de gameplay em um ambiente Unity.
 
 ## O Desafio
