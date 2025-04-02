@@ -48,8 +48,7 @@ Avaliaremos sua submissão com base nos seguintes critérios:
 - Você pode usar assets gratuitos da Unity Asset Store para visuais
 
 ## Diferencial
-Algumas funcionalidades são marcadas como opcionais neste desafio. A implementação dessas funcionalidades é um diferencial, mas não um requisito obrigatório. Você não deve se sentir pressionado a implementar todas elas. Recomendamos que primeiro implemente todas as funcionalidades principais antes de tentar as opcionais
-- Preferimos uma implementação sólida e bem feita das mecânicas básicas do que várias funcionalidades incompletas
+Algumas funcionalidades são marcadas como opcionais neste desafio. A implementação dessas funcionalidades é um diferencial, mas não um requisito obrigatório. Você não deve se sentir pressionado a implementar todas elas. Recomendamos que primeiro implemente todas as funcionalidades principais antes de tentar as opcionais. Preferimos uma implementação sólida e bem feita das mecânicas básicas do que várias funcionalidades incompletas.
 
 - O controle deve funcionar com teclado e mouse (gamepad opcional)
 - Controle de força do arremesso (opcional)
@@ -63,7 +62,7 @@ Para submeter sua solução:
 2. Implemente sua solução
 3. Submeta um pull request com sua implementação
 4. Inclua um breve documento explicando suas decisões de design e quaisquer informações adicionais que considere relevantes
-5. (Opcional) Um vídeo curto demonstrando sua implementação
+5. Um vídeo curto demonstrando sua implementação (Opcional)
 
 
 ## Observações Finais
