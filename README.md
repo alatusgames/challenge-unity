@@ -71,4 +71,5 @@ Para submeter sua solução:
 - Se tiver dúvidas, sinta-se à vontade para abrir uma issue neste repositório.
 - Divirta-se! Este desafio foi projetado para ser desafiador, mas também divertido de implementar.
 
-Boa sorte! 
+
+### Boa sorte! 🪽🚀
