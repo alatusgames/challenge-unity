@@ -8,6 +8,7 @@ Seu objetivo é recriar as mecânicas de gameplay demonstradas no vídeo de refe
 
 https://github.com/user-attachments/assets/11a5adea-f6c7-4576-8c9e-c4f2a92f79fb
 
+Os assets do vídeo podem ser baixados [clicando aqui.](https://github.com/alatusgames/challenge-unity/blob/main/assets-challenge-unity.zip) O uso é opcional para o envio do desafio.
 
 ## Mecânicas a Implementar
 
